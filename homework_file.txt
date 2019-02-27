@@ -1,3 +1,7 @@
 my homework
+<<<<<<< HEAD
 fixing stuff
 adding content
+=======
+fixing stuff
+>>>>>>> master
